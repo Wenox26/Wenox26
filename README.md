@@ -39,5 +39,7 @@
 ##
 
 <!-- SNEK -->
+<div align="center">
+<h2> 🧐Watch da snek nga mapasmo kay gamay ra contribution</h2>
 <img src="https://raw.githubusercontent.com/Wenox26/Wenox26/output/snake.svg" alt="Snake animation" />
-
+</div>
