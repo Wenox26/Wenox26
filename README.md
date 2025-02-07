@@ -5,7 +5,7 @@
 <!-- Tech Stack -->
 <div align="center">
   
-💻 Tech Stack
+<h2> 💻 Tech Stack </h2>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -28,7 +28,7 @@
 </div>
 
 
-
+##
 <!-- Stats -->
 
 <div align="center">
@@ -36,9 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wenox26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+##
 
-<!-- Counter -->
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>
+
