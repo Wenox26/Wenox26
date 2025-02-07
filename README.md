@@ -31,7 +31,7 @@
 
 <!-- Stats -->
 <div align="center">
-  [![Wenox' stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wenox26)](https://github.com/Wenox26/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenox26)](https://github.com/Wenox26/github-readme-stats)
 </div>
 
 
