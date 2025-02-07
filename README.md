@@ -38,4 +38,6 @@
 
 ##
 
+<!-- SNEK -->
+<img src="https://raw.githubusercontent.com/Wenox26/Wenox26/output/snake.svg" alt="Snake animation" />
 
