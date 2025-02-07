@@ -5,7 +5,7 @@
 <!-- Tech Stack -->
 <div align="center">
   
-<h2> 💻 Tech Stack </h2>
+<h2> 💻 Language and Tools: </h2>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
