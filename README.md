@@ -25,6 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <p> <img src="https://komarev.com/ghpvc/?username=Wenox26&label=Profile%20views&color=0e75b6&style=flat" alt="Wenox26" /> </p>
+
 </div>
 
 
