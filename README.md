@@ -1,11 +1,13 @@
 <!-- HEADER -->
-<h1 align="center">👋Hi! I'm OWEN M. JERUSALEM</h1>
-
+<div align="center">
+<h1>👋Hi! I'm OWEN M. JERUSALEM</h1>
+<p> <img src="https://komarev.com/ghpvc/?username=Wenox26&label=Profile%20views&color=0e75b6&style=flat" alt="Wenox26" /> </p>
+</div>
 
 <!-- Tech Stack -->
 <div align="center">
   
-<h2> 💻 Language and Tools: </h2>
+<h3 align= "Left"> 💻 Language and Tools: </h3>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -25,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <p> <img src="https://komarev.com/ghpvc/?username=Wenox26&label=Profile%20views&color=0e75b6&style=flat" alt="Wenox26" /> </p>
+
 
 </div>
 
@@ -34,6 +36,9 @@
 <!-- Stats -->
 
 <div align="center">
+
+<h3 align= "Left"> 📊 Stats: </h3>
+
   <img src="https://github-readme-stats.vercel.app/api?username=Wenox26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wenox26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
