@@ -35,7 +35,7 @@
 ##
 <!-- Stats -->
 
-<div align="center">
+<div align="Left">
 
 <h3 align= "Left"> 📊 Stats: </h3>
 
