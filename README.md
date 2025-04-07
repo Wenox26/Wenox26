@@ -15,7 +15,7 @@
 <!-- Tech Stack -->
 <div align="center">
   
-<h3 align= "Left"> 💻 Language and Tools: </h3>
+<h3 align= "Left"> 💻 Tech Stack: </h3>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
