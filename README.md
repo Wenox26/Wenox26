@@ -43,7 +43,7 @@
 ##
 <!-- Stats -->
 
-<div align="center" style="color: rgb(255, 215, 0);>
+<div align="center">
 
 <h3 align= "Left"> 📊 Stats: </h3>
 
