@@ -1,3 +1,11 @@
+<!-- GIF -->
+<div style="text-align: center;">
+  <img src="" alt="Owen">
+</div>
+
+
+
+
 <!-- HEADER -->
 <div align="center">
 <h1>👋Hi! I'm OWEN M. JERUSALEM</h1>
