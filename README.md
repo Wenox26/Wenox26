@@ -30,7 +30,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandlogos.net%2Fadobe-photoshop-logo-vector-97808.html&psig=AOvVaw1ZvxZr1MbGgC0fZdeKP7bo&ust=1744119764314000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC6_MqGxowDFQAAAAAdAAAAABAE)" height="40" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
   <img width="12" />
