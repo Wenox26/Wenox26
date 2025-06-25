@@ -8,7 +8,7 @@
 
 <!-- HEADER -->
 <div align="left">
-<h1>👋Hi! I'm OWEN M. JERUSALEM</h1>
+<h1>⚡Hi! I'm OWEN M. JERUSALEM⚡</h1>
 <p1> I'm a second-year Information Technology student with a passion for learning and building real-world projects. I'm still exploring different areas in tech, from web development and programming to databases and networking. 
 
 Feel free to explore, give feedback, or connect with me!</p1>
