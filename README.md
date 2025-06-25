@@ -12,7 +12,7 @@
 <p1> I'm a second-year Information Technology student with a passion for learning and building real-world projects. I'm still exploring different areas in tech, from web development and programming to databases and networking. 
 
 Feel free to explore, give feedback, or connect with me!</p1>
-<p2> <img src="https://komarev.com/ghpvc/?username=Wenox26&label=Profile%20views&color=0e75b6&style=flat" alt="Wenox26" /> </p2>
+<p> <img src="https://komarev.com/ghpvc/?username=Wenox26&label=Profile%20views&color=0e75b6&style=flat" alt="Wenox26" /> </p>
 
 </div>
 
