@@ -22,21 +22,21 @@ Feel free to explore, give feedback, or connect with me!</p1>
 <h3 align= "Left"> 💻 Tech Stack: </h3>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="8" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="8" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="8" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="8" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="8" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="8" />
+ 
   <img src="/assets/Adobe_Photoshop_CC_icon.svg.png" height="40" alt="photoshop logo"  />
-  <img width="8" />
+  
   <img src="/assets/Adobe_Illustrator_CC_icon.svg.png" height="40" alt="illustrator logo"  />
-  <img width="8" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 
 
