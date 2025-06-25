@@ -7,7 +7,7 @@
 
 
 <!-- HEADER -->
-<div align="center">
+<div align="left">
 <h1>👋Hi! I'm OWEN M. JERUSALEM</h1>
 <p> <img src="https://komarev.com/ghpvc/?username=Wenox26&label=Profile%20views&color=0e75b6&style=flat" alt="Wenox26" /> </p>
 </div>
