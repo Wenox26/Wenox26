@@ -41,7 +41,7 @@ Feel free to explore, give feedback, or connect with me!</p1>
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wenox26&show_icons=true&count_private=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wenox26&layout=compact&langs_count=5&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Wenox26&theme=radical&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wenox26&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-profile-trophy.vercel.app/?username=Wenox26&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="150" alt="GitHub Trophy" />
   
 </p>
