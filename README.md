@@ -1,7 +1,9 @@
 <!-- GIF -->
+/*
 <div style="text-align: center;">
   <img src="/assets/OwenGIF.gif" alt="Owen">
 </div>
+*/
 
 
 
