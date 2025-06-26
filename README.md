@@ -17,21 +17,13 @@ Feel free to explore, give feedback, or connect with me!</p1>
 <h3 align= "Left"> 💻 Tech Stack: </h3>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
- 
   <img src="/assets/Adobe_Photoshop_CC_icon.svg.png" height="40" alt="photoshop logo"  />
-  
   <img src="/assets/Adobe_Illustrator_CC_icon.svg.png" height="40" alt="illustrator logo"  />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 
 
@@ -46,13 +38,14 @@ Feel free to explore, give feedback, or connect with me!</p1>
 <h3 align= "Left"> 📊 Stats: </h3>
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Wenox26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wenox26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  
-  <img src="https://streak-stats.demolab.com?user=Wenox26&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wenox26&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <div align="center">
+    
+  <img src="https://github-readme-stats.vercel.app/api?username=Wenox&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wenox&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Wenox&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Wenox&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wenox&radius=16&theme=redical&area=true&order=5&point=fff700&title_color=ff00fb&color=ff00fb&hide_border=true&area_color=ff00fb" height="300" alt="activity-graph graph"  />
+</div>
   
 
 
