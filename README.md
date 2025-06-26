@@ -70,6 +70,13 @@ Feel free to explore, give feedback, or connect with me!</p1>
 
 <!-- SNEK -->
 <div align="center">
-<h2>🐍</h2>
-<img src="https://raw.githubusercontent.com/Wenox26/Wenox26/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wenox/Wenox/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wenox/Wenox/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wenox/Wenox/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 </div>
