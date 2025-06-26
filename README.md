@@ -43,8 +43,9 @@ Feel free to explore, give feedback, or connect with me!</p1>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wenox26&layout=compact&langs_count=5&theme=radical&hide_border=true" height="150" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=Wenox26&theme=radical&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" />
   <img src="https://github-profile-trophy.vercel.app/?username=Wenox26&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="150" alt="GitHub Trophy" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wenox26&theme=radical&area=true&point=fff700&title_color=ff00fb&color=ff00fb&hide_border=true&area_color=ff00fb" height="300" alt="Activity Graph" />
+  
 </p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wenox26&theme=radical&area=true&point=fff700&title_color=ff00fb&color=ff00fb&hide_border=true&area_color=ff00fb" height="300" alt="Activity Graph" />
 
   
 
