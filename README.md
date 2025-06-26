@@ -66,10 +66,10 @@ Feel free to explore, give feedback, or connect with me!</p1>
 ###
 </div>
 
-##
+
 
 <!-- Pacman -->
-<div align="center">
+
 <br clear="both">
 
 <picture>
@@ -78,5 +78,5 @@ Feel free to explore, give feedback, or connect with me!</p1>
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wenox26/Wenox26/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-</div>
+
+
