@@ -45,7 +45,7 @@ Feel free to explore, give feedback, or connect with me!</p1>
   <img src="https://github-profile-trophy.vercel.app/?username=Wenox26&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="150" alt="GitHub Trophy" />
   
 </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wenox26&theme=radical&area=true&point=fff700&title_color=ff00fb&color=ff00fb&hide_border=true&area_color=ff00fb" height="300" alt="Activity Graph" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wenox26&radius=16&theme=redical&area=true&order=5&point=fff700&title_color=ff00fb&color=ff00fb&hide_border=true&area_color=ff00fb" height="300" alt="activity-graph graph"  />
 
   
 
