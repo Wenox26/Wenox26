@@ -20,7 +20,7 @@ I enjoy solving problems, exploring new tools, and contributing to meaningful pr
 ##
 
 ## 📊 Stats
-<div align="center">
+
 
   <img src="https://github-readme-stats.vercel.app/api?username=Wenox26&show_icons=true&count_private=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wenox26&layout=compact&langs_count=5&theme=radical&hide_border=true" height="150" alt="Top Languages" />
