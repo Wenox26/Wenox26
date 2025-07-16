@@ -1,46 +1,20 @@
-<!--GIF-->
 <div align= "center">
     <img src="assets/OwenGIF.gif">
 </div>
 
+# 👋 Hi, I'm Owen Jerusalem!
 
+🎓 I’m a 2nd year Information Technology student at **Bukidnon State University** with a passion for learning and building real-world projects using modern technologies. I'm still exploring different areas in tech, from web development and programming to databases and networking.
 
-<!-- HEADER -->
-<div align="left">
-<h1>⚡Hi! I'm OWEN M. JERUSALEM</h1>
-<p1> I'm a second-year Information Technology student with a passion for learning and building real-world projects. I'm still exploring different areas in tech, from web development and programming to databases and networking. 
+## 💻 Tech Stack
 
-Feel free to explore, give feedback, or connect with me!</p1>
+- 🌐 Frontend: **HTML**, **CSS**, **JavaScript**
+- 🗄️ Backend & Databases: **MySQL**, **Python**, **Java**, **C**
+- 🛠️ Tools & Platforms: **Git**, **GitHub**
 
-</div>
+## 🚀 About Me
 
-<!-- Tech Stack -->
-
-<h3 align= "Left"> 💻 Tech Stack: </h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-</div>
-
-###
+I enjoy solving problems, exploring new tools, and contributing to meaningful projects. I'm currently focused on improving my full-stack development skills and collaborating on open-source initiatives. I'm currently learning Java Script in preparation for the MERN stack.
 
 
 ##
@@ -60,9 +34,12 @@ Feel free to explore, give feedback, or connect with me!</p1>
 ###
 </div>
 
+## 📫 Let's Connect
+
+Feel free to check out my repositories and connect with me!
 
 
-
+⭐ *Thanks for visiting my profile!*
 
 
 
