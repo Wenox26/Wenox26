@@ -8,9 +8,9 @@
 
 ## 💻 Tech Stack
 
-- 🌐 Frontend: **HTML**, **CSS**, **JavaScript**
-- 🗄️ Backend & Databases: **MySQL**, **Python**, **Java**, **C**
-- 🛠️ Tools & Platforms: **Git**, **GitHub**
+## - 🌐 Frontend: **HTML**, **CSS**, **JavaScript**
+## - 🗄️ Backend & Databases: **MySQL**, **Python**, **Java**, **C**
+## - 🛠️ Tools & Platforms: **Git**, **GitHub**
 
 ## 🚀 About Me
 
