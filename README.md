@@ -11,6 +11,7 @@
  - 🌐 Frontend: **HTML**, **CSS**, **JavaScript**
  - 🗄️ Backend & Databases: **MySQL**, **Python**, **Java**, **C**
  - 🛠️ Tools & Platforms: **Git**, **GitHub**
+ -  *👀 Note: only the basics of these 👀*
 
 ## 🚀 About Me
 
@@ -31,9 +32,6 @@ I enjoy solving problems, exploring new tools, and contributing to meaningful pr
 ## 📫 Let's Connect
 
 Feel free to check out my repositories and connect with me!
-
-
-⭐ *Thanks for visiting my profile!*
 
 
 
