@@ -12,11 +12,11 @@
  - 🌐 Frontend: **HTML**, **CSS**, **JavaScript**
  - 🗄️ Backend & Databases: **MySQL**, **Python**, **Java**, **C**
  - 🛠️ Tools & Platforms: **Git**, **GitHub**
- -  *👀 Note: only the basics of these 👀*
+*👀 Note: only the basics of these 👀*
 
 ## 🚀 About Me
 
-I enjoy solving problems, exploring new tools, and contributing to meaningful projects. I'm currently focused on improving my full-stack development skills and collaborating on open-source initiatives. I'm currently learning Java Script in preparation for the MERN stack.
+I enjoy solving problems, exploring new tools, and contributing to meaningful projects. I'm currently focused on improving my full-stack development skills and collaborating on open-source initiatives.
 
 
 ## 📊 Stats
