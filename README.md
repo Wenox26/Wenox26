@@ -1,6 +1,3 @@
-<div>
- <img src= "/assets/OwenGIF.gif" />
-</div>
 
 
 # 👋 Hi, I'm Owen Jerusalem!
