@@ -1,15 +1,15 @@
 
 
-# 👋 Hi, I'm Owen Jerusalem!
+# Hi, I'm Owen Jerusalem!
 
-🎓 I’m a 2nd year Information Technology student at **Bukidnon State University** with a passion for learning and building real-world projects using modern technologies. I'm still exploring different areas in tech, from web development and programming to databases and networking.
+I’m a 2nd year Information Technology student at **Bukidnon State University** with a passion for learning and building real-world projects using modern technologies. I'm still exploring different areas in tech, from web development and programming to databases and networking.
 
 ## 💻 Tech Stack
 
- - 🌐 Frontend: **HTML**, **CSS**, **JavaScript**
- - 🗄️ Backend & Databases: **MySQL**, **Python**, **Java**, **C**
- - 🛠️ Tools & Platforms: **Git**, **GitHub**
-*👀 Note: only the basics of these 👀*
+ - Frontend: **HTML**, **CSS**, **JavaScript**
+ - Backend & Databases: **MySQL**, **Python**, **Java**, **C**
+ - Tools & Platforms: **Git**, **GitHub**
+   *Note: only the basics of these *
 
 ## 🚀 About Me
 
